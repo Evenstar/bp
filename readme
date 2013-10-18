@@ -1,0 +1,6 @@
+Use branching process to model the retweeting process.
+    Procedure:
+      1. Input a mid, find the list of users who has the mid, i.e., who retweeted the tweet.
+      2. For each user, find the father of the node, combing these information to build a tree.
+      3. Get the follower number of each user. Use this to fit the distribution.
+	
